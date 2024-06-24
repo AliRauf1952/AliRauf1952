@@ -5,7 +5,8 @@
 
 </head>
 <body >
-<h1 align="center">Hi 👋, I'm Ali Rauf </h1>
+<h1 align="center">Hi 👋, I'm Ali Rauf <br> <img  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="img" style="  height: 205px; width: auto;"></h1>
+
 <p align="center">Motivated Software Engineer with an exceptional educational
   background in computer science and technology. Proficient in
   essential software engineering skills, including full-stack
